@@ -1,0 +1,12 @@
+streamlit>=1.28.0
+pandas
+matplotlib
+seaborn
+plotly
+folium>=0.14.0
+streamlit-folium>=0.15.0
+networkx
+requests
+numpy
+pyarrow
+protobuf
